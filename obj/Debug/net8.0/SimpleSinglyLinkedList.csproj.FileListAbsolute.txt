@@ -1,0 +1,14 @@
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/bin/Debug/net8.0/SimpleSinglyLinkedList
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/bin/Debug/net8.0/SimpleSinglyLinkedList.deps.json
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/bin/Debug/net8.0/SimpleSinglyLinkedList.runtimeconfig.json
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/bin/Debug/net8.0/SimpleSinglyLinkedList.dll
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/bin/Debug/net8.0/SimpleSinglyLinkedList.pdb
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.AssemblyInfoInputs.cache
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.AssemblyInfo.cs
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.csproj.CoreCompileInputs.cache
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.dll
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/refint/SimpleSinglyLinkedList.dll
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.pdb
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/SimpleSinglyLinkedList.genruntimeconfig.cache
+/home/aceladines/projects/dotnet/SimpleSinglyLinkedList/obj/Debug/net8.0/ref/SimpleSinglyLinkedList.dll
